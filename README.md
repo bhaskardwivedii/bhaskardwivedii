@@ -22,7 +22,7 @@
 - 🎓 Student at **KIET Group of Institutions, Ghaziabad**
 - 🧠 Building **explainable machine learning** applications, with a focus on healthcare
 - 🌐 Full-stack developer working with **FastAPI, React and TypeScript**
-- 🧩 Regularly practicing **data structures & algorithms**
+- 🧩 Solving DSA problems regularly: [DSA repository](https://github.com/bhaskardwivedii/DSA)
 - 🔗 Portfolio: [personal-portfolio-alpha-nine-10.vercel.app](https://personal-portfolio-alpha-nine-10.vercel.app/)
 - 📫 Reach me at **bhaskardwivedi.24112004@gmail.com**
 - 🤝 Open to internships, collaborations and open source contributions
@@ -38,7 +38,7 @@
 ### 🫀 [CardioSense](https://github.com/bhaskardwivedii/cardiosense)
 Explainable cardiovascular disease risk prediction platform.
 
-- 7 ML models compared side by side
+- Trains and compares 7 ML models for risk prediction
 - Explainable predictions so users see *why* a risk score was produced
 - REST API with **FastAPI**, interactive UI with **React**
 
@@ -52,16 +52,18 @@ Explainable cardiovascular disease risk prediction platform.
 </td>
     <td width="50%" valign="top">
 
-### 🧮 [DSA](https://github.com/bhaskardwivedii/DSA)
-A growing collection of data structures and algorithm solutions.
+### 💬 [Quora Question Pair Detection](https://github.com/bhaskardwivedii?tab=repositories)
+An NLP project that detects whether two questions are duplicates, built on the Quora Question Pairs dataset.
 
-- 150+ commits of consistent practice
-- Organized by topic with clean, commented solutions
-- Focused on patterns used in technical interviews
+- Classifies question pairs as duplicate or not duplicate
+- Trained and evaluated on the Quora Question Pairs dataset
+- Helps reduce redundant questions by matching meaning, not just keywords
 
-![DSA](https://img.shields.io/badge/Focus-Problem%20Solving-8A2BE2?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-8A2BE2?style=flat-square)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 
-[**View Repository →**](https://github.com/bhaskardwivedii/DSA)
+[**View Repository →**](https://github.com/bhaskardwivedii?tab=repositories)
 
 </td>
   </tr>
@@ -116,8 +118,10 @@ My personal website showcasing projects, skills and ways to get in touch.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=bhaskardwivedii&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=bhaskardwivedii&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&cache_seconds=21600" alt="GitHub stats" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhaskardwivedii&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bhaskardwivedii&theme=react-dark&hide_border=true&bg_color=0d1117" alt="Contribution graph" width="100%" />
 
 </div>
 
