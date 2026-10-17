@@ -1,0 +1,123 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Bhaskar%20Dwivedi&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20%C2%B7%20Machine%20Learning%20%C2%B7%20Problem%20Solving&descAlignY=58&descSize=18" width="100%" alt="header" />
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=4FC3F7&center=true&vCenter=true&width=620&lines=Building+explainable+AI+systems;Full-stack+with+FastAPI+%2B+React;Solving+problems+one+commit+at+a+time" alt="typing intro" />
+</a>
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-bhaskardwivedii-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bhaskardwivedii)
+[![Instagram](https://img.shields.io/badge/Instagram-bhaskar.dwivedii-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/bhaskar.dwivedii)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=githubpages&logoColor=white)](https://bhaskardwivedii.github.io/portfolio)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@example.com)
+
+</div>
+
+---
+
+## 👋 About Me
+
+- 🎓 Student at **KIET Group of Institutions, Ghaziabad**
+- 🧠 Building **explainable machine learning** applications, with a focus on healthcare
+- 🌐 Full-stack developer working with **FastAPI, React and TypeScript**
+- 🧩 Regularly practicing **data structures & algorithms**
+- 📫 Open to internships, collaborations and open source contributions
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
+### 🫀 [CardioSense](https://github.com/bhaskardwivedii/cardiosense)
+Explainable cardiovascular disease risk prediction platform.
+
+- 7 ML models compared side by side
+- Explainable predictions so users see *why* a risk score was produced
+- REST API with **FastAPI**, interactive UI with **React**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+[**View Repository →**](https://github.com/bhaskardwivedii/cardiosense)
+
+</td>
+    <td width="50%" valign="top">
+
+### 🧮 [DSA](https://github.com/bhaskardwivedii/DSA)
+A growing collection of data structures and algorithm solutions.
+
+- 150+ commits of consistent practice
+- Organized by topic with clean, commented solutions
+- Focused on patterns used in technical interviews
+
+![DSA](https://img.shields.io/badge/Focus-Problem%20Solving-8A2BE2?style=flat-square)
+
+[**View Repository →**](https://github.com/bhaskardwivedii/DSA)
+
+</td>
+  </tr>
+</table>
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Frontend & Backend**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+**ML & Data**
+
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=bhaskardwivedii&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhaskardwivedii&layout=compact&theme=tokyonight&hide_border=true" alt="top languages" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=bhaskardwivedii&theme=tokyonight&hide_border=true" alt="streak" />
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+I'm always happy to talk about machine learning, web development, or ideas worth building. If you have an opportunity or a project in mind, reach out on [LinkedIn](https://linkedin.com/in/bhaskardwivedii).
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%" alt="footer" />
+
+</div>
