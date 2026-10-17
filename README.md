@@ -121,8 +121,6 @@ My personal website showcasing projects, skills and ways to get in touch.
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=bhaskardwivedii&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&cache_seconds=21600" alt="GitHub stats" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhaskardwivedii&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bhaskardwivedii&theme=react-dark&hide_border=true&bg_color=0d1117" alt="Contribution graph" width="100%" />
-
 </div>
 
 ---
