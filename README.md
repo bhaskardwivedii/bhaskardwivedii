@@ -20,8 +20,7 @@
 ## 👋 About Me
 
 - 🎓 Student at **KIET Group of Institutions, Ghaziabad**
-- 🧠 Building **explainable machine learning** applications, with a focus on healthcare
-- 🔍 Latest build: **[QueryTwin](https://github.com/bhaskardwivedii/querytwin)**, an NLP duplicate-question detector trained on 400k+ Quora pairs ([live demo](https://querytwin.onrender.com))
+- 🧠 Building **explainable machine learning** applications
 - 🌐 Full-stack developer working with **FastAPI, React and TypeScript**
 - 🧩 Solving DSA problems regularly: [DSA repository](https://github.com/bhaskardwivedii/DSA)
 - 🔗 Portfolio: [personal-portfolio-alpha-nine-10.vercel.app](https://personal-portfolio-alpha-nine-10.vercel.app/)
@@ -48,6 +47,7 @@ Explainable cardiovascular disease risk prediction platform.
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
+[**Live Demo →**](https://cardiosense-ovtw.onrender.com/)
 [**View Repository →**](https://github.com/bhaskardwivedii/cardiosense)
 
 </td>
