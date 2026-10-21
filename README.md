@@ -20,7 +20,7 @@
 ## 👋 About Me
 
 - 🎓 Student at **KIET Group of Institutions, Ghaziabad**
-- 🧠 Building **explainable machine learning** applications
+- 🧠 Building **explainable ML** applications and **AI products** (CardioSense, QueryTwin, Chakravyuh)
 - 🌐 Full-stack developer working with **FastAPI, React and TypeScript**
 - 🧩 Solving DSA problems regularly: [DSA repository](https://github.com/bhaskardwivedii/DSA)
 - 🔗 Portfolio: [personal-portfolio-alpha-nine-10.vercel.app](https://personal-portfolio-alpha-nine-10.vercel.app/)
