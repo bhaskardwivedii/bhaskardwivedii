@@ -21,6 +21,7 @@
 
 - 🎓 Student at **KIET Group of Institutions, Ghaziabad**
 - 🧠 Building **explainable machine learning** applications, with a focus on healthcare
+- 🔍 Latest build: **[QueryTwin](https://github.com/bhaskardwivedii/querytwin)**, an NLP duplicate-question detector trained on 400k+ Quora pairs ([live demo](https://querytwin.onrender.com))
 - 🌐 Full-stack developer working with **FastAPI, React and TypeScript**
 - 🧩 Solving DSA problems regularly: [DSA repository](https://github.com/bhaskardwivedii/DSA)
 - 🔗 Portfolio: [personal-portfolio-alpha-nine-10.vercel.app](https://personal-portfolio-alpha-nine-10.vercel.app/)
@@ -52,18 +53,20 @@ Explainable cardiovascular disease risk prediction platform.
 </td>
     <td width="50%" valign="top">
 
-### 💬 [Quora Question Pair Detection](https://github.com/bhaskardwivedii?tab=repositories)
-An NLP project that detects whether two questions are duplicates, built on the Quora Question Pairs dataset.
+### 💬 [QueryTwin](https://github.com/bhaskardwivedii/querytwin)
+Duplicate question detection: tells whether two questions ask the same thing, and finds existing duplicates of a new question.
 
-- Classifies question pairs as duplicate or not duplicate
-- Trained and evaluated on the Quora Question Pairs dataset
-- Helps reduce redundant questions by matching meaning, not just keywords
+- Trained on the full **Quora Question Pairs** dataset (404k pairs)
+- TF-IDF + LSA + 37 engineered similarity features; benchmarks **Logistic Regression, Random Forest and XGBoost**
+- **83%+ test accuracy**; served through a **FastAPI** REST API with a live web demo
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![NLP](https://img.shields.io/badge/NLP-8A2BE2?style=flat-square)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-189FDD?style=flat-square)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
-[**View Repository →**](https://github.com/bhaskardwivedii?tab=repositories)
+[**Live Demo →**](https://querytwin.onrender.com) · [**View Repository →**](https://github.com/bhaskardwivedii/querytwin)
 
 </td>
   </tr>
@@ -105,6 +108,8 @@ My personal website showcasing projects, skills and ways to get in touch.
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-189FDD?style=for-the-badge)
+![NLP](https://img.shields.io/badge/NLP-8A2BE2?style=for-the-badge)
 
 **Tools**
 
